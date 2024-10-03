@@ -1,0 +1,7 @@
+﻿  structLearn_teacherCase1.cpp
+E:\deskfile\CodeProject\cppProject\structLearn_teacherCase1\structLearn_teacherCase1\structLearn_teacherCase1.cpp(54,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\deskfile\CodeProject\cppProject\structLearn_teacherCase1\structLearn_teacherCase1\structLearn_teacherCase1.cpp(55,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\deskfile\CodeProject\cppProject\structLearn_teacherCase1\structLearn_teacherCase1\structLearn_teacherCase1.cpp(56,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\deskfile\CodeProject\cppProject\structLearn_teacherCase1\structLearn_teacherCase1\structLearn_teacherCase1.cpp(57,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\deskfile\CodeProject\cppProject\structLearn_teacherCase1\structLearn_teacherCase1\structLearn_teacherCase1.cpp(58,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  structLearn_teacherCase1.vcxproj -> E:\deskfile\CodeProject\cppProject\structLearn_teacherCase1\x64\Debug\structLearn_teacherCase1.exe
