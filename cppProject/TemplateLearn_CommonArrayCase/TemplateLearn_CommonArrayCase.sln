@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateLearn_CommonArrayCase", "TemplateLearn_CommonArrayCase\TemplateLearn_CommonArrayCase.vcxproj", "{860247F4-22AD-4736-A1CB-78E181C53173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860247F4-22AD-4736-A1CB-78E181C53173}.Debug|x64.ActiveCfg = Debug|x64
+		{860247F4-22AD-4736-A1CB-78E181C53173}.Debug|x64.Build.0 = Debug|x64
+		{860247F4-22AD-4736-A1CB-78E181C53173}.Debug|x86.ActiveCfg = Debug|Win32
+		{860247F4-22AD-4736-A1CB-78E181C53173}.Debug|x86.Build.0 = Debug|Win32
+		{860247F4-22AD-4736-A1CB-78E181C53173}.Release|x64.ActiveCfg = Release|x64
+		{860247F4-22AD-4736-A1CB-78E181C53173}.Release|x64.Build.0 = Release|x64
+		{860247F4-22AD-4736-A1CB-78E181C53173}.Release|x86.ActiveCfg = Release|Win32
+		{860247F4-22AD-4736-A1CB-78E181C53173}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC5C85A-F939-4E5F-A599-21A557AF0D61}
+	EndGlobalSection
+EndGlobal
