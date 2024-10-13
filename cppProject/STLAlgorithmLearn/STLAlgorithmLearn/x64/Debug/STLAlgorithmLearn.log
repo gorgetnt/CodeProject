@@ -1,0 +1,3 @@
+﻿  STLAlgorithmLearn.cpp
+E:\deskfile\CodeProject\cppProject\STLAlgorithmLearn\STLAlgorithmLearn\STLAlgorithmLearn.cpp(93): warning C4715: “FindIfPred::operator()”: 不是所有的控件路径都返回值
+  STLAlgorithmLearn.vcxproj -> E:\deskfile\CodeProject\cppProject\STLAlgorithmLearn\x64\Debug\STLAlgorithmLearn.exe
